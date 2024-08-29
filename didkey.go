@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/btcsuite/btcd/btcutil/base58"
-	"github.com/yum45f/didkey/multicodec"
+	"github.com/yum45f/multicodec"
 )
 
 type DIDKey struct {

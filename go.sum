@@ -65,8 +65,8 @@ github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7/go.mod h1:q4W45IWZaF22tdD+VEXcAWRA037jwmWEB5VWYORlTpc=
-github.com/yum45f/orangesea/did v0.0.0-20240827054830-f54d5b428ef4 h1:3xKgZzE+iXnosWhkOcpAaq5zV0wDdRCEHkAquZvaVYQ=
-github.com/yum45f/orangesea/did v0.0.0-20240827054830-f54d5b428ef4/go.mod h1:1cGUkekq6CM8i7H1xf2CX4SzNb4amasRanbCRTes6DE=
+github.com/yum45f/multicodec v0.0.0-20240829043412-0902f7207f66 h1:Fg9OAyzEVgTuUwBHi/MvOuS2+ccrYVXf9Lz35UaH1dM=
+github.com/yum45f/multicodec v0.0.0-20240829043412-0902f7207f66/go.mod h1:GuNW6YyiZ851NiyxLHMvYFKyG8w5XFZ7cGqUkDkrbnM=
 golang.org/x/crypto v0.0.0-20170930174604-9419663f5a44/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
